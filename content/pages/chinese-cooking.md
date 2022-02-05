@@ -12,10 +12,69 @@ Food is among the most powerful building blocks of culture. It factors into many
 Readings
 --------
 
-| SES # | TOPICS | READINGS | QUESTIONS |
-| --- | --- | --- | --- |
-| 9 | The context of Chinese food |  {{< br >}}{{< br >}} Anderson, E. N. "The Climax of Traditional Agriculture," "Some Basic Cooking Strategies," and "Food in Society." Chapters 7, 9 and 12 in _The Food of China_. New Haven, CT: Yale University Press, 1990. ISBN: 9780300047394. {{< br >}}{{< br >}} Hucker, Charles O. Introduction to _China's Imperial Past: An Introduction to Chinese History and Culture_. Stanford, CA: Stanford University Press, 1975, pp. 1-17. ISBN: 9780804723534. {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mites_272s03_q09)) |
-| 10 | The interplay between Chinese food and culture |  {{< br >}}{{< br >}} Harris, Marvin. "Holy Beef, U.S.A." Chapter 6 in _The Sacred Cow and the Abominable Pig: Riddles of Food and Culture_. Prospect Heights, IL: Waveland Press, 1998. ISBN: 9781577660156 {{< br >}}{{< br >}} Chang, K. C. Introduction to _Food in Chinese Culture: Anthropological and Historical Perspectives_. New Haven, CT: Yale University Press, 1977, pp. 1-19 and 42-45. ISBN: 9780300027594. {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mites_272s03_q10)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The context of Chinese food
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anderson, E. N. "The Climax of Traditional Agriculture," "Some Basic Cooking Strategies," and "Food in Society." Chapters 7, 9 and 12 in _The Food of China_. New Haven, CT: Yale University Press, 1990. ISBN: 9780300047394.
+
+Hucker, Charles O. Introduction to _China's Imperial Past: An Introduction to Chinese History and Culture_. Stanford, CA: Stanford University Press, 1975, pp. 1-17. ISBN: 9780804723534.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mites_272s03_q09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The interplay between Chinese food and culture
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Harris, Marvin. "Holy Beef, U.S.A." Chapter 6 in _The Sacred Cow and the Abominable Pig: Riddles of Food and Culture_. Prospect Heights, IL: Waveland Press, 1998. ISBN: 9781577660156
+
+Chang, K. C. Introduction to _Food in Chinese Culture: Anthropological and Historical Perspectives_. New Haven, CT: Yale University Press, 1977, pp. 1-19 and 42-45. ISBN: 9780300027594.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mites_272s03_q10))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Labs
 ----

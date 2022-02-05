@@ -12,12 +12,99 @@ This mini-module is about two aspects of culture rarely discussed together, but 
 Readings
 --------
 
-| SES # | TOPICS | READINGS | QUESTIONS |
-| --- | --- | --- | --- |
-| 13 | Peruvian textiles and culture |  {{< br >}}{{< br >}} de la Vega, Garcilaso. "The Foundation of Cuzco, the imperial city." Chapter XVI in _Royal Commentaries of the Incas and General History of Peru_. Austin, TX: University of Texas Press, 1966. {{< br >}}{{< br >}} Malpass, Michael A. "Politics and Society." Chapter 2 in _Daily Life in the Inca Empire_. 1st ed. Westport, CT: Greenwood Press, 1996. ISBN: 9780313293900. {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mites_272s03_q13)) |
-| 14 | Quipus | Ascher, Marcia, and Robert Ascher. "How to Make a Quipu," "The Quipumaker," and "A Piece of String." Chapter 2, 4, and 8 in _Code of the Quipu: A Study in Media, Mathematics, and Culture_. Ann Arbor, MI: University of Michigan Press, 1981. ISBN: 9780472063253. | ([PDF]({{< baseurl >}}/resources/mites_272s03_q14)) |
-| 15 | Peruvian textile techniques |  {{< br >}}{{< br >}} Feltham, Jane. "Materials and Tools," and "Techniques." In _Peruvian Textiles_. Aylesbury, England: Shire Publications, 1989, pp. 16-19, 22-23, 26-27, 30-35 and 38-41. ISBN: 9780747800149. {{< br >}}{{< br >}} Cobo, Bernabe. "Of the dress and garments of these Indians," and "Of the Clothing and Cloth that they used to Spin and Weave." Chapters 2 and 11 in _Inca Religion and Customs_. Austin, TX: University of Texas Press, 1990, pp. 185–189 and 223-226. ISBN: 9780292738614. {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | Textiles and their functions | Murra, John V. "Cloth and Its Functions in the Inca State." _American Anthropologist_ 64 (August 1962): 710-728. |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Peruvian textiles and culture
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+de la Vega, Garcilaso. "The Foundation of Cuzco, the imperial city." Chapter XVI in _Royal Commentaries of the Incas and General History of Peru_. Austin, TX: University of Texas Press, 1966.
+
+Malpass, Michael A. "Politics and Society." Chapter 2 in _Daily Life in the Inca Empire_. 1st ed. Westport, CT: Greenwood Press, 1996. ISBN: 9780313293900.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mites_272s03_q13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Quipus
+{{< tdclose >}}
+{{< tdopen >}}
+Ascher, Marcia, and Robert Ascher. "How to Make a Quipu," "The Quipumaker," and "A Piece of String." Chapter 2, 4, and 8 in _Code of the Quipu: A Study in Media, Mathematics, and Culture_. Ann Arbor, MI: University of Michigan Press, 1981. ISBN: 9780472063253.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mites_272s03_q14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Peruvian textile techniques
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Feltham, Jane. "Materials and Tools," and "Techniques." In _Peruvian Textiles_. Aylesbury, England: Shire Publications, 1989, pp. 16-19, 22-23, 26-27, 30-35 and 38-41. ISBN: 9780747800149.
+
+Cobo, Bernabe. "Of the dress and garments of these Indians," and "Of the Clothing and Cloth that they used to Spin and Weave." Chapters 2 and 11 in _Inca Religion and Customs_. Austin, TX: University of Texas Press, 1990, pp. 185–189 and 223-226. ISBN: 9780292738614.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Textiles and their functions
+{{< tdclose >}}
+{{< tdopen >}}
+Murra, John V. "Cloth and Its Functions in the Inca State." _American Anthropologist_ 64 (August 1962): 710-728.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Labs
 ----

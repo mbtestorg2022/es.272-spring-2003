@@ -12,10 +12,73 @@ Engineering — the sole pursuit of many an MIT student — is a great deal more
 Readings
 --------
 
-| SES # | TOPICS | READINGS | QUESTIONS |
-| --- | --- | --- | --- |
-| 11 | Harrison and the longitude problem |  {{< br >}}{{< br >}} Laycock, W. S. "John Harrison, The Man Who Mastered The Pendulum." _Horological Journal_ (February 1976): 5-13. {{< br >}}{{< br >}} Bruton, Eric. "The Time at Sea." Chapter V in _The History of Clocks and Watches._ New York, NY: Crescent Books, 1989, pp. 85-105. ISBN: 9780517689097. {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mites_272s03_q11)) |
-| 12 | Clock design issues and engineering |  {{< br >}}{{< br >}} These articles describe details of Harrison's inventions for time compensation, the grasshopper escapement, and some aspects of H4. They are useful for truly wrapping one's head around the engineering, for which additional time might be spent in class. {{< br >}}{{< br >}} Laycock, W. S. "Time Compensation." Chapter VIII in _The Lost Science of John "Longitude" Harrison_. Ashford, England: Brant Wright, 1976, pp. 63-70. ISBN: 9780903512077. {{< br >}}{{< br >}} Hastings, Peter. "A Look at the Grasshopper Escapement." _Horological Journal_ (August 1993): 48-53. {{< br >}}{{< br >}} Gould, Rupert T. _The Marine Chronometer: Its History and Development_. Woodbridge, England: Antique Collectors' Club, 1988, pp. 70-78. ISBN: 9780907462057. {{< br >}}{{< br >}}  |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Harrison and the longitude problem
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Laycock, W. S. "John Harrison, The Man Who Mastered The Pendulum." _Horological Journal_ (February 1976): 5-13.
+
+Bruton, Eric. "The Time at Sea." Chapter V in _The History of Clocks and Watches._ New York, NY: Crescent Books, 1989, pp. 85-105. ISBN: 9780517689097.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mites_272s03_q11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Clock design issues and engineering
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+These articles describe details of Harrison's inventions for time compensation, the grasshopper escapement, and some aspects of H4. They are useful for truly wrapping one's head around the engineering, for which additional time might be spent in class.
+
+Laycock, W. S. "Time Compensation." Chapter VIII in _The Lost Science of John "Longitude" Harrison_. Ashford, England: Brant Wright, 1976, pp. 63-70. ISBN: 9780903512077.
+
+Hastings, Peter. "A Look at the Grasshopper Escapement." _Horological Journal_ (August 1993): 48-53.
+
+Gould, Rupert T. _The Marine Chronometer: Its History and Development_. Woodbridge, England: Antique Collectors' Club, 1988, pp. 70-78. ISBN: 9780907462057.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Labs
 ----

@@ -44,45 +44,312 @@ The writing is split up into one 4-5 page paper, one 2-3 page paper, and a serie
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 40% |
-| Short Paper | 10% |
-| Long Paper | 30% |
-| Topic Questions | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Paper
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Long Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Topic Questions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Schedule
 --------
 
 This list is organized as a sequence of class meetings (of which each two make a week). Each class time has associated readings and discussion. Citations and questions for the readings and details about lab activities can be found on each module page.
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}[**The Samurai Sword and Blacksmithing**]({{< baseurl >}}/pages/samurai-swords){{< /td-colspan >}} ||
-| 1 | Introduction to Japan |
-| 2 | The katana |
-| 3 | The samurai's cultural origins |
-| 4 | The code of the samurai |
-| 5 | Zen and the samurai |
-| 6 | Civil war and unification |
-| 7 | Giving up the gun |
-| 8 | The Tokugawa state |
-| {{< td-colspan 2 >}}[**Chinese Cooking and Food**]({{< baseurl >}}/pages/chinese-cooking){{< /td-colspan >}} ||
-| 9 | The context of Chinese food |
-| 10 | The interplay between Chinese food and culture |
-| {{< td-colspan 2 >}}[**John Harrison and Clocks**]({{< baseurl >}}/pages/clocks-and-longitude){{< /td-colspan >}} ||
-| 11 | Harrison and the longitude problem |
-| 12 | Clock design issues and engineering |
-| {{< td-colspan 2 >}}[**Andean Weaving**]({{< baseurl >}}/pages/andean-textiles){{< /td-colspan >}} ||
-| 13 | Peruvian textiles and culture |
-| 14 | Quipus |
-| 15 | Peruvian textile techniques |
-| 16 | Textiles and their functions |
-| {{< td-colspan 2 >}}[**Automobiles and Engines**]({{< baseurl >}}/pages/u.s.-cars-and-engines){{< /td-colspan >}} ||
-| 17 | Early history of the automobile |
-| 18 | Engine design and engineering |
-| 19 | Suburbanization |
-| 20 | American rites of passage |
-| 21 | Fast food and American culture |
-| 22 | Scientific thinking, Zen, and motorcycles |
-| 23 | Cultural change and progress
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+[**The Samurai Sword and Blacksmithing**]({{< baseurl >}}/pages/samurai-swords)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Japan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The katana
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The samurai's cultural origins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The code of the samurai
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Zen and the samurai
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Civil war and unification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Giving up the gun
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Tokugawa state
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+[**Chinese Cooking and Food**]({{< baseurl >}}/pages/chinese-cooking)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The context of Chinese food
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The interplay between Chinese food and culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+[**John Harrison and Clocks**]({{< baseurl >}}/pages/clocks-and-longitude)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Harrison and the longitude problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Clock design issues and engineering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+[**Andean Weaving**]({{< baseurl >}}/pages/andean-textiles)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Peruvian textiles and culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Quipus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Peruvian textile techniques
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Textiles and their functions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+[**Automobiles and Engines**]({{< baseurl >}}/pages/u.s.-cars-and-engines)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Early history of the automobile
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Engine design and engineering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Suburbanization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+American rites of passage
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Fast food and American culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Scientific thinking, Zen, and motorcycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural change and progress
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
